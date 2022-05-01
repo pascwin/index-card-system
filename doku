@@ -1,0 +1,7 @@
+1.Installiere Bootstrap für React
+
+mit npm installieren:
+npm install react-bootstrap bootstrap@4.6.0
+css in index.js importieren: 
+import { Button } from 'react-bootstrap';
+scripts in index.html laden
